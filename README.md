@@ -1,5 +1,6 @@
 Watermark functionality: Credit to: https://github.com/Webotvorba/ckfinder-plugin-imagewatermark-php
-```$config['ImageWatermark'] = [
+```
+$config['ImageWatermark'] = [
     'imagePath' => __DIR__ . '/wm.png', // Path to watermark
     'position' => [
         'right'  => 'center',
